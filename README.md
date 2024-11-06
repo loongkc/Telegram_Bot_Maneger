@@ -26,14 +26,14 @@ pip install requests PyQt5
 
 ## 使用方法
 - 创建聊天窗口：
--- 打开应用后，在侧边栏点击 New Chat 按钮，输入 Bot API Token 和 Chat ID。
--- 点击 Create Chat Window 按钮创建新的聊天窗口。
+打开应用后，在侧边栏点击 New Chat 按钮，输入 Bot API Token 和 Chat ID。
+点击 Create Chat Window 按钮创建新的聊天窗口。
 - 发送消息：
--- 在聊天窗口的输入框中输入消息，点击 Send 按钮发送消息。
+在聊天窗口的输入框中输入消息，点击 Send 按钮发送消息。
 - 发送文件：
--- 点击 Send File 按钮选择一个文件，文件将会被发送到聊天窗口。
+点击 Send File 按钮选择一个文件，文件将会被发送到聊天窗口。
 - 查看聊天记录：
--- 每个聊天窗口会显示来自 Telegram Bot 和其他用户的消息。
+每个聊天窗口会显示来自 Telegram Bot 和其他用户的消息。
 
 ## 代码结构
 - TelegramChatWindow: 管理聊天窗口的主要界面，显示消息、发送消息和文件。
