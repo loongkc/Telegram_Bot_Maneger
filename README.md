@@ -38,7 +38,7 @@ pip install requests customtkinter CTkMessagebox
 ## 使用方法
 ### 下载release版本或运行TGBotManager.py 
 #### 下载地址
-[下载 v1.0.0 版本]([https://github.com/loongkc/Telegram_Bot_Maneger/releases/download/v1.0.0/TGBotManager.exe)
+[下载 v1.0.0 版本](https://github.com/loongkc/Telegram_Bot_Maneger/releases/download/v1.0.0/TGBotManager.exe)
 
 - 创建聊天窗口：
 打开应用后，在侧边栏点击 New Chat 按钮，输入 Bot API Token 和 Chat ID。
